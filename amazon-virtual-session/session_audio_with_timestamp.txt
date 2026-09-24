@@ -1,0 +1,523 @@
+[00:00.000 --> 00:11.200]  Let's to cover up meanwhile, I will just plug in my actual account which I've been using for this demo so you don't have to worry the same console you will be seeing just give me one second.
+[00:12.200 --> 00:17.800]  All right, let me just stop the screen sharing for a while and just come back with my another account.
+[00:31.000 --> 00:40.000]  Just one minute guys, if you can see me on the screen, I'm here only I'm just figuring out my one different account which I've set up for you guys.
+[00:41.000 --> 00:43.000]  I know things happen.
+[00:46.000 --> 00:51.000]  Okay, and here we are, the console action is just giving one second.
+[00:52.000 --> 00:57.000]  And console I have got my account.
+[01:02.000 --> 01:09.000]  Cool, so let me just put in my account here and people see.
+[01:10.000 --> 01:13.000]  Let me just share my screen again here.
+[01:13.000 --> 01:19.000]  I hope you're now seeing my different account which I've been using for my testing.
+[01:20.000 --> 01:34.000]  Okay, so let's go again to sage maker, okay, sorry, just give me once again you can just say it from here sage maker.
+[01:44.000 --> 01:46.000]  And here we are.
+[01:46.000 --> 01:47.000]  Okay, what happened?
+[01:47.000 --> 01:49.000]  Okay, this is started.
+[01:58.000 --> 02:02.000]  Something is different here just give me once again a win in my account.
+[02:02.000 --> 02:04.000]  I'm seeing different things.
+[02:04.000 --> 02:07.000]  Sage, hope that's true, that's true.
+[02:08.000 --> 02:13.000]  All right, meanwhile, it's being created.
+[02:13.000 --> 02:22.000]  So yeah, if sudden kind of problem which comes in your account, don't worry, you don't have to worry just going to be taking like 15 to 20 minutes so that your system is initializing.
+[02:22.000 --> 02:31.000]  Meanwhile, in those 15 to 20 30 minutes, you can do some activities, which I was telling you, you know, to get your another hundred eight double hundred dollar credits.
+[02:31.000 --> 02:37.000]  And let's see, should be coming up.
+[02:45.000 --> 02:48.000]  Okay, meanwhile, but.
+[02:52.000 --> 02:57.000]  Let me just check, you know, if something is coming up in this account, I'm just loving you.
+[02:57.000 --> 02:58.000]  Okay.
+[03:02.000 --> 03:06.000]  Just an outcome.
+[03:06.000 --> 03:13.000]  You know, let me just take something for you guys, which you can do for your another hundred dollar AWS credits.
+[03:13.000 --> 03:14.000]  Exactly.
+[03:14.000 --> 03:28.000]  Now, meanwhile, while the studio is being set up for you guys, I'll tell you how to get another hundred dollars once you receive your once you started with your account, you see there are some five activities, which you can just scroll down your AWS console.
+[03:28.000 --> 03:34.000]  You will see launch an instant using AC to that reward will be given you $20.
+[03:34.000 --> 03:38.000]  Then you can just use a model in your Amazon bedrock playground that will give you $20.
+[03:38.000 --> 03:43.000]  Set up a cost budget, which we are selling you to give a alert $20 again.
+[03:43.000 --> 03:50.000]  Create a web app using AWS Lambda under the 20 so one, two, three, four, five hundred dollars, right by just creating some things.
+[03:50.000 --> 03:57.000]  Let's just use something like, you know, meanwhile, just to tell you, if you complete this activity by 25 March, 27, you'll be given $20.
+[03:57.000 --> 04:02.000]  Wow, it's something I would do this to get some extra $20.
+[04:02.000 --> 04:07.000]  I will just say, just give me one second.
+[04:07.000 --> 04:09.000]  I don't need the visuals here.
+[04:09.000 --> 04:25.000]  You will just add a name, chop in AWS Amazon Linux and it's not recommended just for the, you know, interest of time I'm just doing selecting the default options and
+[04:25.000 --> 04:30.000]  security group allow us to sit from anywhere. Feel free to explore here right now.
+[04:30.000 --> 04:33.000]  I'm just trying to get you know $20 for you guys.
+[04:33.000 --> 04:41.000]  Configure storage, HTTP GP3 and the file system is not launch instance.
+[04:41.000 --> 04:44.000]  It's not easy to launch an easy to instance here.
+[04:44.000 --> 04:48.000]  All right, so let's see if something has changed.
+[04:48.000 --> 04:52.000]  It might just show up in like another end progress. All right, see.
+[04:52.000 --> 04:55.000]  That's how it is. Good.
+[04:55.000 --> 05:01.000]  And if I just need to mean by this, I think the system is still taking some time here.
+[05:01.000 --> 05:06.000]  All right, we have some 15 20 minutes. Otherwise, I'll just show you walk you through the code.
+[05:06.000 --> 05:10.000]  If that's not happening because I've prepared for you guys.
+[05:10.000 --> 05:12.000]  Just give me one second.
+[05:12.000 --> 05:18.000]  Okay.
+[05:19.000 --> 05:32.000]  Let's see if the code has been checked. Okay, in progress. Let's see if you can see our account credits here just to check credits.
+[05:32.000 --> 05:38.000]  Okay, this is how you can check your credits. You can, you can go to accounts.
+[05:38.000 --> 05:44.000]  You will get all you can directly go to billing and cost management billing and cost and you will get see credits.
+[05:44.000 --> 05:48.000]  Here, you can see $100 already given to you right away.
+[05:48.000 --> 05:52.000]  And once you are just, you know, figuring out like, you know, how to go ahead.
+[05:52.000 --> 05:58.000]  You know, you will be doing those activities. This number would be changing 200.
+[05:58.000 --> 06:04.000]  Okay, okay, now we are here in our notebooks in our sales maker.
+[06:04.000 --> 06:09.000]  The notebook has been created for us and let's go here.
+[06:09.000 --> 06:13.000]  This is our studio, which you will also be seeing. And now we will.
+[06:13.000 --> 06:24.000]  Okay, I will use to be the old layout. Let me just check. This is a new layout for me as well here.
+[06:24.000 --> 06:30.000]  So here in the unified studio, I am going with notebooks because my code is here.
+[06:30.000 --> 06:34.000]  I will be running some Python code in the notebooks. I don't want to set up anything.
+[06:34.000 --> 06:36.000]  Everything will be done in the Python notebooks.
+[06:36.000 --> 06:45.000]  So what we did, we just went to the image on Sage maker. We went to the image on Sage maker unified studio, which behind the scenes creates everything for us.
+[06:45.000 --> 06:51.000]  I am role set up as three buckets east to instances, the studio, all of it.
+[06:51.000 --> 06:55.000]  Now, let's do a notebook, create a notebook.
+[06:55.000 --> 07:00.000]  And they should be an option with Python.
+[07:00.000 --> 07:06.000]  Okay, yeah, this is the Python, which we are seeing. Okay.
+[07:06.000 --> 07:15.000]  Now I have some code for you guys. Let's see.
+[07:15.000 --> 07:23.000]  Because this is the Python. So we will be doing Python code is like, you know, first of all, what we are trying to do.
+[07:23.000 --> 07:28.000]  Let's build something real in the next another 1015.
+[07:28.000 --> 07:34.000]  Yes, we are going to from zero to a deployed ML model right here in the Sage maker studio. This is a studio.
+[07:34.000 --> 07:39.000]  We will load a data set from S3 clean it up and do some feature engineering.
+[07:39.000 --> 07:44.000]  We will create an exit exit boost model using Sage maker's managed training.
+[07:44.000 --> 07:48.000]  We are not going to be setting up anything deployed as a live endpoint.
+[07:48.000 --> 07:51.000]  We will send up a new data and get see real predictions.
+[07:51.000 --> 07:56.000]  The problem we are solving today is something called as customer churn prediction.
+[07:56.000 --> 08:01.000]  We are trying to predict whether a customer will leave or stay based on the data.
+[08:01.000 --> 08:08.000]  This is a very classic binary classification problem and the workflow is same, which you will also be using in your image challenge.
+[08:08.000 --> 08:13.000]  Different data said that the process would be same. So understand the concepts here.
+[08:13.000 --> 08:18.000]  If you've never used Sage maker before, don't worry, I'll explain everything as we go.
+[08:18.000 --> 08:23.000]  Let's set up an environment and here it will be something like this.
+[08:23.000 --> 08:29.000]  I'm setting up.
+[08:29.000 --> 08:33.000]  So weapons tall.
+[08:33.000 --> 08:38.000]  Okay.
+[08:38.000 --> 08:42.000]  Two. Okay. Oh, this view is so simple. That's okay.
+[08:42.000 --> 08:46.000]  We don't have to do many to just give you one second.
+[08:46.000 --> 08:57.000]  Sometimes this and notebooks can be still in the initializing stage.
+[08:57.000 --> 09:04.000]  Also just a minute. I'd like to see the learning out here.
+[09:04.000 --> 09:10.000]  Okay.
+[09:10.000 --> 09:15.000]  Yeah, that's exactly which I really wanted to see.
+[09:15.000 --> 09:20.000]  Great. Great. This is great. This is the thing which I'm looking for you guys.
+[09:20.000 --> 09:24.000]  Unified studio.
+[09:24.000 --> 09:33.000]  God. This is how we're working and now we will go with installing the stage maker core SDK, which we would need here.
+[09:40.000 --> 09:50.000]  I have no idea why it's saying you need to reset the kernel to use up period packages.
+[09:50.000 --> 09:57.000]  Let me just refresh something is not here. Everything is here.
+[09:57.000 --> 10:01.000]  But why is not happening? Just give me a check.
+[10:01.000 --> 10:06.000]  It's happening in the packages here.
+[10:06.000 --> 10:15.000]  This is how you can also troubleshoot when things are not happening for you guys.
+[10:15.000 --> 10:23.000]  Conno, we still to do, but you know, there's a kernel here. I to just.
+[10:23.000 --> 10:27.000]  It's a new layout, which has been changed in my different system.
+[10:27.000 --> 10:32.000]  Let's see if.
+[10:32.000 --> 10:37.000]  Okay.
+[10:37.000 --> 10:45.000]  Let me just. Okay. I'll use a different approach for us.
+[10:45.000 --> 10:53.000]  I will probably use this approach, which I've created on the studio for us.
+[10:53.000 --> 10:59.000]  Yeah, that's far better. This is the older layout, which you will also see in the stage maker studio.
+[10:59.000 --> 11:04.000]  You can also create the same studio like stage maker studio and create an open studio to have a default option.
+[11:04.000 --> 11:08.000]  Otherwise, if you have created something like this, this is the one.
+[11:08.000 --> 11:12.000]  Now, let's go to here, the options we will be seeing like, you know, Jupiter.
+[11:12.000 --> 11:18.000]  You have a Jupyter lab, the same notebook. Now I'll be creating a new notebook for us.
+[11:18.000 --> 11:27.000]  You can select launch now. It will be creating a notebook with mlt3 media 5gb4gb RAM.
+[11:27.000 --> 11:34.000]  I was starting one. I was testing out with some, you know, some other labs. I keep on, you know, deploying models, so I was testing out with here.
+[11:34.000 --> 11:39.000]  So let's wait for until it's coming up.
+[11:39.000 --> 11:43.000]  So this is the studio, which you don't have to set up anything.
+[11:43.000 --> 11:48.000]  You will be mostly working with Jupyter labs here, writing your code in this.
+[11:48.000 --> 11:52.000]  In this, you know, in this instance in this Python notebook.
+[11:52.000 --> 11:55.000]  And rest of the things would be easily available for you guys.
+[11:55.000 --> 12:02.000]  So automatically once the lab is started, you know, the instances up, you will see a notebook coming up for you guys.
+[12:02.000 --> 12:12.000]  Let's see, it's coming up here.
+[12:12.000 --> 12:18.000]  All right, this is the Python notebook Jupyter Python notebook and you will see a launcher here.
+[12:18.000 --> 12:24.000]  We want to choose a notebook of Python three, which have all the Python three dependencies, the errors, which I was seeing in the last time.
+[12:24.000 --> 12:29.000]  So what we can do is just hit install SageMaker core queue.
+[12:29.000 --> 12:35.000]  Okay.
+[12:35.000 --> 12:40.000]  Once you enter the command, this is the way to play to run these commands.
+[12:40.000 --> 12:46.000]  It will install the wow, why this is happening in everywhere.
+[12:46.000 --> 12:48.000]  So we need to restart.
+[12:48.000 --> 12:58.000]  Okay, guys, we are facing some other type of problems here in the system, which let me also check in the other notebooks.
+[12:58.000 --> 13:03.000]  Because of the interest of the time, I will didn't walk you through the code if this is not happening in the last time.
+[13:03.000 --> 13:07.000]  Give me five minutes. Let's see why it's happening.
+[13:07.000 --> 13:11.000]  It's really crazy.
+[13:11.000 --> 13:14.000]  So that's a lot with me today.
+[13:14.000 --> 13:21.000]  For sure, let's see.
+[13:36.000 --> 13:39.000]  Okay.
+[13:39.000 --> 13:49.000]  I will just check it out here if it's happening.
+[13:49.000 --> 13:51.000]  Let's talk me again.
+[13:51.000 --> 13:59.000]  Should work.
+[13:59.000 --> 14:02.000]  Guys, say some problem with my accounts.
+[14:02.000 --> 14:03.000]  So I have a better way.
+[14:03.000 --> 14:07.000]  I will just walk you through the code then.
+[14:07.000 --> 14:17.000]  Okay.
+[14:17.000 --> 14:30.000]  Okay, guys, so I think we are facing some issues here, but let me just check some other command if it's running.
+[14:30.000 --> 14:33.000]  Otherwise, I'll just walk you through the code.
+[14:33.000 --> 14:40.000]  I'm so sorry, there's something issues with my account here, but let's see.
+[14:40.000 --> 14:44.000]  Yeah, guys, so.
+[14:44.000 --> 14:50.000]  That's not exactly an error, it's just a note, which you are seeing right too many to restart the channel to update packages.
+[14:50.000 --> 14:53.000]  And for you guys, it will be already done for you.
+[14:53.000 --> 14:58.000]  So here, what are we are doing is we have searched instead of the stage maker code with this command.
+[14:58.000 --> 15:01.000]  This is all the latest SDK version three.
+[15:01.000 --> 15:06.000]  Let's let's us talk to a stage maker services behind the scenes.
+[15:06.000 --> 15:10.000]  The people's command will install you know packages right from within the notebook.
+[15:10.000 --> 15:14.000]  For you, you will what this command is actually doing.
+[15:14.000 --> 15:20.000]  Your stage maker studio has created certain things like execution role, escape bucket and default and the region.
+[15:20.000 --> 15:24.000]  This is what this code is trying to just print for you guys.
+[15:24.000 --> 15:29.000]  The important thing here is the session connects here to the Amazon stage maker service.
+[15:29.000 --> 15:39.000]  It has a remote control execution role will tell how Amazon stage maker gets permission to access your data in S3 and spin up the compute instances.
+[15:39.000 --> 15:43.000]  Okay, the quick set of already did this for us behind the scenes.
+[15:43.000 --> 15:48.000]  Now, let's go to another command, which I'm going to be.
+[15:48.000 --> 15:50.000]  This is your cell three.
+[15:50.000 --> 15:55.000]  Now, what is this doing for you?
+[15:55.000 --> 16:00.000]  This is something important, which I want to before I'm running this cell, I will explain.
+[16:00.000 --> 16:03.000]  We did not upload the data arses.
+[16:03.000 --> 16:05.000]  I have not updated this data.
+[16:05.000 --> 16:11.000]  AWS is hosting several public data sets in S3 specifically for this kind of a tutorial, which I'm going to be doing.
+[16:11.000 --> 16:12.000]  There's one of them.
+[16:12.000 --> 16:13.000]  It's in the public bucket.
+[16:13.000 --> 16:19.000]  You will be getting your data set from the Amazon in your meals later on.
+[16:19.000 --> 16:21.000]  The data itself is like a customer data set.
+[16:21.000 --> 16:23.000]  It has about 5,000 for customers.
+[16:23.000 --> 16:27.000]  It features like call minutes charges customer service calls.
+[16:27.000 --> 16:28.000]  It's not a real customer.
+[16:28.000 --> 16:31.000]  It's a telecom customer data set.
+[16:31.000 --> 16:33.000]  AWS generated for you.
+[16:33.000 --> 16:35.000]  The for the ML challenge, the process will be different.
+[16:35.000 --> 16:41.000]  You will receive your challenge data set and you will need to upload it to your own S3 bucket.
+[16:41.000 --> 16:44.000]  I will show you how to do that in a few minutes when we upload a process data.
+[16:44.000 --> 16:48.000]  But for now, we are just feeding from the AWS public data.
+[16:48.000 --> 16:52.000]  No upload needed from my site for now.
+[16:52.000 --> 16:55.000]  Again, remember, I am not uploading this data arses.
+[16:55.000 --> 16:57.000]  It's a public data set for you.
+[16:57.000 --> 17:01.000]  You have to upload in your bucket S3 bucket.
+[17:01.000 --> 17:02.000]  All right.
+[17:02.000 --> 17:05.000]  Let's run this.
+[17:05.000 --> 17:07.000]  So this is the kind of a data which is there.
+[17:07.000 --> 17:11.000]  You know, there's some states account length area code and all of this.
+[17:11.000 --> 17:17.000]  What interestingly, I am interested in the customer churn rate with the customer will stay with us.
+[17:17.000 --> 17:20.000]  Our customer will not stay with us.
+[17:20.000 --> 17:22.000]  Two means customer will leave.
+[17:22.000 --> 17:24.000]  Paul's needs customer will not leave.
+[17:24.000 --> 17:27.000]  You know, the cost calls means the customer is staying.
+[17:27.000 --> 17:28.000]  Sorry.
+[17:28.000 --> 17:31.000]  Two means customer has left churn rate.
+[17:31.000 --> 17:34.000]  Now, let's see.
+[17:34.000 --> 17:40.000]  My interesting column which on which I want to train my data is the churn data column.
+[17:40.000 --> 17:46.000]  And here it is.
+[17:46.000 --> 17:51.000]  I will be little fast to save some time because we because of the account problems.
+[17:51.000 --> 17:52.000]  Okay.
+[17:52.000 --> 17:53.000]  Let's forget that.
+[17:53.000 --> 17:56.000]  So our target column is churn here.
+[17:56.000 --> 17:58.000]  True means the customer left.
+[17:58.000 --> 18:00.000]  Paul's means this state.
+[18:00.000 --> 18:07.000]  This data set has a roughly 50 50 split about half people have churn and half a state.
+[18:07.000 --> 18:15.000]  This is an important step for us because you need to always take your target distribution before you do anything else on a data.
+[18:15.000 --> 18:18.000]  Now, cleaning up or more training the model.
+[18:18.000 --> 18:21.000]  It tells you what kind of problem you're dealing with.
+[18:21.000 --> 18:25.000]  Right now, it's a balance here, 50 50 roughly equal.
+[18:25.000 --> 18:29.000]  But in the ML challenge, maybe your data might be highly skewed to one side.
+[18:29.000 --> 18:30.000]  Right.
+[18:30.000 --> 18:34.000]  That changes how you build and evaluate your model.
+[18:34.000 --> 18:41.000]  We will definitely talk about more on evaluation metrics like precision recall F1 scores later when we actually see our model riddles.
+[18:41.000 --> 18:46.000]  For now, remember, you need to look at your data first before you touch it.
+[18:46.000 --> 18:49.000]  Here is your churn data.
+[18:49.000 --> 18:50.000]  All right.
+[18:50.000 --> 18:54.000]  Now the step I would be.
+[18:54.000 --> 19:02.000]  I will just be quick.
+[19:02.000 --> 19:08.000]  So this tells you about the data, you know, which starts there are 21 columns and zero missing values.
+[19:08.000 --> 19:10.000]  It's a clean data set.
+[19:10.000 --> 19:13.000]  Maybe the ML challenge data won't be this clean for you guys.
+[19:13.000 --> 19:18.000]  You know, you will be need to handle the missing values and noisy data by yourself.
+[19:18.000 --> 19:21.000]  But the exploratory analysis data is always the same.
+[19:21.000 --> 19:26.000]  Understand your data like the churn column in my case before you model it.
+[19:26.000 --> 19:29.000]  For example, let's see you read this output.
+[19:29.000 --> 19:33.000]  21 columns means we have 21 pieces of information about each customer.
+[19:33.000 --> 19:37.000]  5000 means 5000 customers zero missing values.
+[19:37.000 --> 19:40.000]  The data is all cells of data.
+[19:40.000 --> 19:46.000]  This is because important because missing values can break your model or give wrong results if they was missing data.
+[19:46.000 --> 19:52.000]  In the ML challenge, you will most certainly might have or most certainly have a missing data.
+[19:52.000 --> 19:54.000]  You will need to handle it.
+[19:54.000 --> 19:59.000]  You will need to fill in some beta drop it or use some algorithm that handle it natively.
+[19:59.000 --> 20:02.000]  We are also checking the column types.
+[20:02.000 --> 20:04.000]  Some are numbers.
+[20:04.000 --> 20:06.000]  Some are text.
+[20:06.000 --> 20:10.000]  The column types in 64 plot 64 object types.
+[20:10.000 --> 20:18.000]  And our model every our model, which is exit boost, which I'm using for this prediction using everything as number, which is by the next feature is.
+[20:18.000 --> 20:20.000]  Featured engineering.
+[20:20.000 --> 20:24.000]  Alright, let's be quick little.
+[20:24.000 --> 20:26.000]  It's a simple Python code.
+[20:26.000 --> 20:29.000]  You don't have to worry what's this Python code is.
+[20:29.000 --> 20:35.000]  I'll just go with this, but just give me once again, I will help you out.
+[20:35.000 --> 20:37.000]  Okay.
+[20:37.000 --> 20:39.000]  Okay.
+[20:39.000 --> 20:43.000]  Now what I'm trying to do is like I said in the previous step.
+[20:43.000 --> 20:44.000]  Featured engineering.
+[20:44.000 --> 20:46.000]  This is a step of featuring.
+[20:46.000 --> 20:48.000]  This was where data science is happening.
+[20:48.000 --> 20:50.000]  Let me walk you through what each line is then.
+[20:50.000 --> 20:53.000]  First, I'm trying to drop a phone column.
+[20:53.000 --> 20:55.000]  This is non creative for me.
+[20:55.000 --> 20:58.000]  This is a unique ID every customer has a unique different phone number.
+[20:58.000 --> 21:00.000]  It doesn't help predict anything.
+[21:00.000 --> 21:04.000]  If your data is unique ID serial numbers or row numbers, drop it.
+[21:04.000 --> 21:05.000]  That's a basic rule.
+[21:05.000 --> 21:07.000]  They don't add any value.
+[21:07.000 --> 21:09.000]  Next time dropping the.
+[21:09.000 --> 21:13.000]  Charge columns day charge evening charge night charge international charges.
+[21:13.000 --> 21:14.000]  Why.
+[21:14.000 --> 21:16.000]  This is the exact line.
+[21:16.000 --> 21:19.000]  Why because charges equal minutes times are fixed.
+[21:19.000 --> 21:22.000]  They charge the tree day minutes multiplied by some number.
+[21:22.000 --> 21:25.000]  This is the exact same information as the minutes column.
+[21:25.000 --> 21:28.000]  Having both is like writing the same answer twice on your exam.
+[21:28.000 --> 21:29.000]  That is where we are.
+[21:29.000 --> 21:30.000]  I'm trying to drop it.
+[21:30.000 --> 21:33.000]  It doesn't give you extra marks in ml machine learning.
+[21:33.000 --> 21:37.000]  We call this written density and it can actually confuse your model.
+[21:37.000 --> 21:42.000]  So and also we I'm also trying to do one dot code encoding over here.
+[21:42.000 --> 21:43.000]  If you can see.
+[21:43.000 --> 21:47.000]  What I'm trying to do is some column have text like yes or no.
+[21:48.000 --> 21:49.000]  I'll take.
+[21:49.000 --> 21:52.000]  But XB booth only understands numbers.
+[21:52.000 --> 21:54.000]  So you need to also understand your model.
+[21:54.000 --> 21:55.000]  What's the input data?
+[21:55.000 --> 21:56.000]  I trying to expect.
+[21:56.000 --> 21:59.000]  How do I know what XT booth requires?
+[21:59.000 --> 22:01.000]  You can always Google it.
+[22:01.000 --> 22:03.000]  Amazon Sage maker algorithm.
+[22:03.000 --> 22:07.000]  Documentation always tells you what kind of data your model is required.
+[22:07.000 --> 22:10.000]  So you need to read your documentation during a ml challenge.
+[22:10.000 --> 22:11.000]  As.
+[22:11.000 --> 22:13.000]  So what are we trying to convert in?
+[22:13.000 --> 22:16.000]  We are trying to convert yes becomes one and no becomes zero over here.
+[22:16.000 --> 22:18.000]  I'm trying to just.
+[22:18.000 --> 22:21.000]  Encoding the data.
+[22:21.000 --> 22:26.000]  A state column with 50 state becomes 50 separate column each with a once or zeros.
+[22:26.000 --> 22:30.000]  That's what pg get dummies is doing here.
+[22:30.000 --> 22:33.000]  All right, so.
+[22:33.000 --> 22:35.000]  And now what is I'm doing here?
+[22:35.000 --> 22:38.000]  I'm just trying to convert the numbers in my zeros and one and then printing out.
+[22:38.000 --> 22:41.000]  Let's print it out for you guys.
+[22:41.000 --> 22:44.000]  Now, if you have observed one thing which I've just done.
+[22:44.000 --> 22:50.000]  I have brought my churned column which was in the last of the customer data.
+[22:50.000 --> 22:53.000]  I've tried to bring it in the front.
+[22:53.000 --> 22:56.000]  You know why?
+[22:56.000 --> 22:58.000]  Exy bruised have the rule.
+[22:58.000 --> 23:03.000]  Give me a CSV file with no column headers and put that thing you want to predict in the first column.
+[23:03.000 --> 23:05.000]  That's again the model quality.
+[23:05.000 --> 23:07.000]  Everything goes else goes after it.
+[23:07.000 --> 23:12.000]  This is the number one mistake people forget to remove headers or they leave the target column somewhere in the middle.
+[23:12.000 --> 23:15.000]  But here right now I'm trying to bring it in the front.
+[23:15.000 --> 23:17.000]  That's the ML dispractice.
+[23:17.000 --> 23:19.000]  The model either crashes or trains in the wrong thing.
+[23:19.000 --> 23:23.000]  So remember to rule no headers target first.
+[23:23.000 --> 23:25.000]  So again, let me repeat.
+[23:25.000 --> 23:29.000]  Someone would be wondering how do I know these rules answer is documentation.
+[23:29.000 --> 23:32.000]  Every Sage maker built an algorithm like HZ booths.
+[23:32.000 --> 23:35.000]  Have the docs page that tells you exactly what format it expects.
+[23:35.000 --> 23:41.000]  Just Google input format of the Exy boost Sage maker and the first silver tell you target in the column zero.
+[23:41.000 --> 23:43.000]  No headers.
+[23:43.000 --> 23:44.000]  That's it.
+[23:44.000 --> 23:49.000]  Before you use any algorithm spend some five minutes you know reading the docs will save your odds of debugging trust me.
+[23:49.000 --> 23:52.000]  That's a pro tip of winning trust me.
+[23:52.000 --> 23:54.000]  And let's now.
+[23:54.000 --> 23:57.000]  Now we have you know sanitize the data.
+[23:57.000 --> 23:59.000]  Now let's click this data and upload to s3.
+[23:59.000 --> 24:01.000]  I will be splitting this data into training data.
+[24:01.000 --> 24:04.000]  Some data will be validation some will be the testing data.
+[24:04.000 --> 24:07.000]  I will be trying to be little quick here.
+[24:07.000 --> 24:10.000]  So this is a very simple code.
+[24:10.000 --> 24:12.000]  It is doing three things here.
+[24:12.000 --> 24:14.000]  Split save and upload.
+[24:14.000 --> 24:19.000]  Just to get it.
+[24:19.000 --> 24:21.000]  So what is happening is.
+[24:21.000 --> 24:30.000]  Think of this as the test tool validation is said training set is 67% which we have said here, you know 67 means the data that model learns from.
+[24:30.000 --> 24:35.000]  If you want your model to learn more, you can tweak the value from 67 to something else.
+[24:35.000 --> 24:37.000]  From 0.33 test size to something else.
+[24:37.000 --> 24:39.000]  I'll stop to you.
+[24:39.000 --> 24:44.000]  Then you come serve validation set of data validation sets is like it's progress against it.
+[24:44.000 --> 24:49.000]  The model checks it progress again this while cleaning think of it like a practice test.
+[24:49.000 --> 24:53.000]  Then come to test it, which is something around 11%.
+[24:53.000 --> 24:56.000]  We never show this data to the model until the variant.
+[24:56.000 --> 24:58.000]  This is the final exam.
+[24:58.000 --> 25:04.000]  Why three sets now somebody would be asking because if you train and test on the same data your model just memorizes the answers.
+[25:04.000 --> 25:08.000]  So it will look great, but fail on the new data.
+[25:08.000 --> 25:11.000]  So test set tells you how it performs on the data.
+[25:11.000 --> 25:13.000]  It has never seen.
+[25:13.000 --> 25:16.000]  Training is being trained on the model is being thrown on.
+[25:16.000 --> 25:21.000]  Golden rule never touch your test set until you are completely done training.
+[25:21.000 --> 25:23.000]  Here it is 11% for me.
+[25:23.000 --> 25:31.000]  So always divide your data into three training data validation data and test data.
+[25:31.000 --> 25:35.000]  And if you're noticing what the random state 42 in the code here.
+[25:35.000 --> 25:37.000]  It's something like the seed number.
+[25:37.000 --> 25:40.000]  It makes the split reproducible every time.
+[25:40.000 --> 25:44.000]  Every time you run this you will get the same split.
+[25:44.000 --> 25:45.000]  Okay.
+[25:45.000 --> 25:47.000]  Now second step I'm doing it as a separating.
+[25:47.000 --> 25:52.000]  I'm saving it as a CSV three CSV five brain CSV validation CSV test CSV.
+[25:52.000 --> 25:53.000]  In this final code.
+[25:53.000 --> 25:56.000]  I'm just trying to upload this data to s three.
+[25:56.000 --> 25:59.000]  Now let me just print it up.
+[25:59.000 --> 26:02.000]  All right.
+[26:02.000 --> 26:05.000]  These are the like three three five wheel rows.
+[26:05.000 --> 26:07.000]  It's going to the s three this bucket.
+[26:07.000 --> 26:08.000]  That's because this.
+[26:08.000 --> 26:11.000]  Now somebody would be asking how did you get this bucket.
+[26:11.000 --> 26:14.000]  This is the bucket which Sage maker has set it up for us.
+[26:14.000 --> 26:15.000]  When we created the studio.
+[26:15.000 --> 26:20.000]  So that is where it's creating studio helps up in this kind of a infrastructure provision.
+[26:20.000 --> 26:21.000]  All right.
+[26:21.000 --> 26:22.000]  All right.
+[26:22.000 --> 26:23.000]  All right.
+[26:23.000 --> 26:24.000]  All right.
+[26:24.000 --> 26:26.000]  Now let's come to the frame the model.
+[26:26.000 --> 26:27.000]  We need to train now model.
+[26:27.000 --> 26:28.000]  We have no data.
+[26:28.000 --> 26:30.000]  We have data stored in s three.
+[26:30.000 --> 26:33.000]  Now we need to train the model from our s three.
+[26:33.000 --> 26:38.000]  But before that there's one more step you go beyond the setting the data.
+[26:38.000 --> 26:42.000]  Sage maker has some pre-built Docker containers for popular algorithms.
+[26:42.000 --> 26:45.000]  Exyboos, linear learners, glaring takes in many more.
+[26:45.000 --> 26:47.000]  You don't have to install any model.
+[26:47.000 --> 26:49.000]  You just point it to the container here.
+[26:49.000 --> 26:52.000]  My container image is like framework is the exit boost.
+[26:52.000 --> 26:54.000]  And the region is under version.
+[26:54.000 --> 26:58.000]  You might need to check the versions of the algorithm you are trying to choose.
+[26:58.000 --> 27:04.000]  All you have to just hit play and it will tell you the exit boost container image name.
+[27:04.000 --> 27:08.000]  And this is what we have been saved in our image variable as well.
+[27:08.000 --> 27:12.000]  Now we will be launching the training job.
+[27:12.000 --> 27:13.000]  Okay.
+[27:13.000 --> 27:17.000]  Let me just fix in the code here for you guys.
+[27:18.000 --> 27:19.000]  And okay.
+[27:19.000 --> 27:21.000]  Now this is what this code is doing.
+[27:21.000 --> 27:22.000]  This is an important code.
+[27:22.000 --> 27:25.000]  Please let me walk you through what's happening here.
+[27:25.000 --> 27:26.000]  Hyper parameter.
+[27:26.000 --> 27:30.000]  This is something called as hyper parameter what we are trying to do.
+[27:30.000 --> 27:33.000]  Hyper parameter controls how the model learns.
+[27:33.000 --> 27:35.000]  I'm choosing sort of defaults here.
+[27:35.000 --> 27:36.000]  Like max depth.
+[27:36.000 --> 27:39.000]  How complex each tree can be.
+[27:39.000 --> 27:42.000]  ETA 0.2 is a learning rate.
+[27:42.000 --> 27:44.000]  Number of round number of round is here.
+[27:44.000 --> 27:45.000]  I'm giving 100.
+[27:45.000 --> 27:50.000]  We build 100 of trees that works together to you know learn from the strength of from it.
+[27:50.000 --> 27:53.000]  Objective here is binary logistic.
+[27:53.000 --> 27:57.000]  This says exit boost that this is binary classification instance type.
+[27:57.000 --> 28:04.000]  And then comes the instance type of here for you.
+[28:04.000 --> 28:07.000]  Now let me just you know what we'll be doing is.
+[28:07.000 --> 28:11.000]  This entire training is covered by the free tier.
+[28:11.000 --> 28:13.000]  Channel will be telling you.
+[28:13.000 --> 28:18.000]  Channel will be telling you from where the training and validation data lives in s3.
+[28:18.000 --> 28:21.000]  Here if you see channel name is validation content time.
+[28:21.000 --> 28:23.000]  Sv su data source.
+[28:23.000 --> 28:24.000]  And blah blah blah.
+[28:24.000 --> 28:25.000]  Yeah.
+[28:25.000 --> 28:26.000]  All right.
+[28:26.000 --> 28:28.000]  And sd bucket is always stored in the variable.
+[28:28.000 --> 28:35.000]  And let's just try to train this model.
+[28:35.000 --> 28:36.000]  Pro tip.
+[28:36.000 --> 28:40.000]  You might for your accuracy and different things you need might need to play with the hyper parameters of your.
+[28:40.000 --> 28:45.000]  During your challenge.
+[28:45.000 --> 28:48.000]  So waiting for training to complete this might take some time.
+[28:48.000 --> 28:50.000]  Let's wait for like two, three minutes.
+[28:50.000 --> 28:53.000]  Let me just refresh what we have just done.
+[28:53.000 --> 28:54.000]  So far.
+[28:54.000 --> 28:59.000]  We have installed Amazon Sage maker SDK to talk with Sage maker service.
+[28:59.000 --> 29:08.000]  Then we just printed out the region s3 bucket execution role which Sage maker has created for us when we created this entire studio.
+[29:08.000 --> 29:14.000]  Then now we have now what we are doing is we are just trying to read our data how the data is.
+[29:14.000 --> 29:19.000]  This data is a public data you will get your data set from the image challenge from the team.
+[29:19.000 --> 29:29.000]  After the reading the data I understood this is the where churn churn is the data which I want to make learn and predict my data tell like whether customer will stay or customer will not.
+[29:29.000 --> 29:31.000]  That's where the model will start predicting.
+[29:31.000 --> 29:43.000]  Then what I did was I kind of check the my training data how my target variable distribution is it equally split or it's going to be skewed we don't know how your model your final data would be.
+[29:43.000 --> 29:46.000]  Then I checked how the data types are.
+[29:46.000 --> 29:54.000]  Is there any missing data you know true or false is missing or some columns are missing because this will influence your model accuracy.
+[29:54.000 --> 30:09.000]  Finally what we did finally we just you know kind of sanitize the data by dropping some columns which I don't need and bringing the data in the front the column in the front which I need to need my model to predict on that is my churn column.
+[30:09.000 --> 30:23.000]  West I am now splitting this data into three ties one is the training data for the model another would be the validation data and finally would be the test data which I will only use when the model has been trained and I'm satisfied with the accuracy.
+[30:23.000 --> 30:29.000]  So training is the season 7% data validation will be 22% and testing is 11% of the total data.
+[30:29.000 --> 30:44.000]  Storing it are the three CFE files and finally fading the model using different type of parameters and this code your code will be almost the same all these is have to figure out is that sanitization of the data and the hyper parameters.
+[30:44.000 --> 30:50.000]  This might take some time because you know we have around 5000 of customers.
+[30:50.000 --> 30:56.000]  Now what is the steps which are just remaining I am doing good on the time check here.
+[30:57.000 --> 31:14.000]  Once the model is trained we will get a message something like you know the training has been completed we will we will be now then doing deploying this model you know deploying and then creating the prediction that the only step which is left and in the final step I will show you how to you know.
+[31:14.000 --> 31:29.000]  Get a sample prediction and delete this data all right our data has our model has been trained completed now let's just do one last second step deployed and get prediction.
+[31:29.000 --> 31:41.000]  Remember you need to deploy this model otherwise you won't get the prediction it's like it's just saying like you know just tell the model you know what if your model is not live you won't be able to predict.
+[31:41.000 --> 31:54.000]  And here's the code is a simple we have choose a churn model name which was given in the previous code here the churn model name came here paying job churn model came here and all we are just doing is.
+[31:54.000 --> 32:08.000]  In SDK V3 deploying inverse three steps you create a model create an endpoint configuration and create the endpoint Sage maker creates a resting endpoint a life service that accepts data and returns prediction.
+[32:08.000 --> 32:13.000]  Okay, so what we are trying to do is we are creating a sees become model from here.
+[32:13.000 --> 32:34.000]  Then we are creating a endpoint configuration and then creating an endpoint here endpoint is a rest API endpoint a life service again that accepts data and returns prediction this is the same which you can use in your project as well for the sending data and getting predictions this will take around like five minutes from us.
+[32:34.000 --> 32:39.000]  Sorry, there's a conflict with the syntax error.
+[32:39.000 --> 32:50.000]  Okay, creating model resource creating endpoint creating endpoint resource waiting for the model to be ready and this is your endpoint all right.
+[32:50.000 --> 33:10.000]  Why is the end point comes up let me connect to this clear world machine learning what we just created is the whole state prediction service in production applications you will have some applications for example Netflix Amazon Prime Amazon these applications send data to this end point which has been created why an API coupon and get back predictions in real time.
+[33:10.000 --> 33:30.000]  This is how ML works at companies like Amazon itself for the ML challenge you will generate predictions for a test set you can either use the real point endpoint like this or use a batch transform which process an entire final prediction at once without keeping an endpoint run this is something you would like to explore.
+[33:30.000 --> 33:34.000]  It's batch all often more cost effective for competitive style workflows.
+[33:34.000 --> 33:45.000]  There's also some few Sage maker features that will help you in the challenge like Sage maker autopilot you give your data and it automatically tries multiple algorithms and feature engineering approaches.
+[33:45.000 --> 33:59.000]  You don't have to code that great for a quick baseline hyper parameter tuning jobs you define a search range for your hyper parameters and Sage maker and doesn't stop training jobs in panel to find the best combination.
+[33:59.000 --> 34:10.000]  There's also one more feature called Sage maker experiments that I already told you in the theory that you will model you will trap all your model versions parameter than metrics where you can compare your runs.
+[34:10.000 --> 34:19.000]  A golden rule starts simple start simple with what you're doing today then layer on these advanced features to improve your score.
+[34:19.000 --> 34:31.000]  So what did we just cover batch transform Sage maker autopilot hyper parameter training jobs Sage maker experiments so you can explore more of this.
+[34:31.000 --> 34:39.000]  Let's just wait for our endpoint to be ready I'll just have my hotel until then.
+[34:39.000 --> 34:48.000]  By the way, this is a surprise for you that I have written a block for you guys so that you can also cover up this all these steps which you are covering right now.
+[34:48.000 --> 34:53.000]  Let me just to pull in this blog here.
+[34:53.000 --> 35:02.000]  He spindles into something that I hope I'm logged in here I have not logged in okay I'm so sorry.
+[35:02.000 --> 35:10.000]  Maybe just give me one second maybe I can find my blog here for you guys.
+[35:10.000 --> 35:13.000]  Okay, I hope.
+[35:13.000 --> 35:19.000]  The Amazon team will drop in this blog in the charts for now.
+[35:19.000 --> 35:28.000]  Until then let's see where I'll be in the training point waiting for endpoint let's just close this training point.
+[35:28.000 --> 35:39.000]  Latisha from my team if you can just drop in the blog link that would be great for them also so that you know they have something to refer on later on while we're just about to end our demo.
+[35:39.000 --> 35:41.000]  I've already shared it.
+[35:41.000 --> 35:49.000]  Sure, thank you so much Latisha.
+[35:49.000 --> 35:55.000]  Okay, this will take time you know model endpoints getting ready you know so yeah.
+[35:55.000 --> 36:05.000]  Latisha are we having any questions in the chat or it's going to be either coming up any questions I'm not able to see that because.
+[36:05.000 --> 36:09.000]  There are a few questions but I think we.
+[36:09.000 --> 36:11.000]  We should be looking at this.
+[36:11.000 --> 36:20.000]  I will share the recording with the folks sure sure sure now let's see the end point of life now now let's try to do something.
+[36:20.000 --> 36:30.000]  Let's some get some sample predictions here for you guys let me just put in my code which I prepared for you guys and.
+[36:31.000 --> 36:33.000]  Okay.
+[36:38.000 --> 36:55.000]  Why I chose Jupiter for this table because you know it's just like you copy your code you can generate your code from you know or any I services which you like keto ID you know bedrock you can get it anything you like and just copy paste and you know see the results in real time rather than you know provisioning everything.
+[36:55.000 --> 37:01.000]  You can choose your VS code as well up to you but I prefer this studio because it is provisioning the infrastructure as well.
+[37:01.000 --> 37:06.000]  All right let's just run and see what is happening.
+[37:06.000 --> 37:08.000]  Okay.
+[37:08.000 --> 37:11.000]  This is the predictions which is coming up.
+[37:11.000 --> 37:22.000]  Now look at that the model outputs a probability between zero and one you can see the numbers like zero point nine three four zero point one two and so on.
+[37:22.000 --> 37:33.000]  I have kept the threshold zero point five here let me tell you what is zero point five here above zero one five we predict Sean below zero point five we predict stay.
+[37:33.000 --> 37:39.000]  John means customer will not stay he will go away and most of these are correct if you see.
+[37:39.000 --> 37:51.000]  That decimal number is the confidence which I'm saying in my code a score of zero point nine two here or zero point nine three four means the model is very confident the customer will show.
+[37:51.000 --> 38:06.000]  Actually correct as well which is you know with the actual data it kind of coincide that the model is expecting churn and actually is on such a model is very confident the customer will show a score of zero point five one here means it's barely sure.
+[38:06.000 --> 38:12.000]  In the ML challenge confidence scores matter for how your solution rounds cases to human review.
+[38:12.000 --> 38:20.000]  Like say let's say you know the you read this output carefully each line is one customer first number is like zero point nine three four.
+[38:20.000 --> 38:25.000]  It's a probability that this customer will show it's a number within zero and one.
+[38:25.000 --> 38:34.000]  You need to think of this as a model confidence zero point nine three four is like 93.4% the model is confident the person will be.
+[38:34.000 --> 38:44.000]  We have I have said a threshold of point five anything above point five I'm saying it will show or before low that it will stay.
+[38:44.000 --> 38:54.000]  Correct means model is right wrong means it didn't you know this is what your model will also produce in the ML challenge to a confidence score for your each prediction.
+[38:54.000 --> 39:04.000]  The higher the score the more confident your model is remember the higher to score the more confident your model is getting the threshold right matters a lot.
+[39:04.000 --> 39:09.000]  I have chosen a safe approach for point five but you will need to tweak it.
+[39:09.000 --> 39:16.000]  In the challenge you might study the higher than zero point five you want to be extra care for about ground predictions that's up to you so.
+[39:16.000 --> 39:24.000]  Key take away from this code you need to set your threshold accordingly and you need to make sure your model is confident.
+[39:24.000 --> 39:38.000]  And now let's do a full evaluation test that's a final last second step then we will delete all the resources as I'll show you how to delete as well so that you don't cost your free tier stay then free tier.
+[39:38.000 --> 39:41.000]  Let's just run this code.
+[39:41.000 --> 39:53.000]  Okay this testing has been done with the 11% of the test data okay and we will see how it is being doing done over here.
+[39:53.000 --> 39:57.000]  From test data no target to CSV okay.
+[39:57.000 --> 40:07.000]  Let me just break down what these phone number means because in machine learning these phone numbers have a different value accuracy is the simplest out of all the customers what percentage did we get right.
+[40:07.000 --> 40:20.000]  Around 91.6% sounds good but let me explain why do we need more than just one accuracy imagine you are a teacher trying to find what are the students going to fail an exam.
+[40:20.000 --> 40:30.000]  You flag 10 students for example precision ask of those 10 students how many actually fail.
+[40:30.000 --> 40:37.000]  If 8 out of 10 fail your precision is 80% you were right most of the time when you made a call.
+[40:37.000 --> 40:45.000]  Now what does recall means recall means all students who actually fail how many did you catch.
+[40:45.000 --> 40:56.000]  Let's say if 20 students were failing but you only flagged 8 your recall is like 40% you miss a lot of real places right that's your recall.
+[40:57.000 --> 41:11.000]  F1 is my important parameter which I see as an email engineer in F1 scores balances both you want to be right when you make a call and catch most real cases F1 gives you gives you one number for both of that.
+[41:11.000 --> 41:19.000]  In simple terms precision is how right you are recall is how many real cases you catch F1 are you good at both.
+[41:19.000 --> 41:34.000]  For the email challenge take low attention to which metric the leader board is using the challenge code my precision and recall differently so don't just choose accuracy focus on these numbers sorry these parameters.
+[41:34.000 --> 41:46.000]  Now in the end if you have understood what we have just done you know all we just have to do is delete this endpoint right now I'm not experiencing the code because it's a python code and I'm assuming you would guys would understand the python code.
+[41:46.000 --> 42:10.000]  If not use your ideas a ID whatever you want to feel like and you know speeder and let's just delete this okay so that I'm not being charged in my free tier account and point or delete and point conflict or delete on model delete I'm deleting the end point and everything and it will be just running this code.
+[42:10.000 --> 42:20.000]  This is one of the most important says in this entire book you need to delete your endpoint because running endpoint will cost you point 12 dollars 0.12 dollars per hour.
+[42:20.000 --> 42:31.000]  If you forget one over the weekend costs around 6 dollars forget over a month it will be like 90 dollars training job which we have done will auto dominate they don't need any cleanup.
+[42:31.000 --> 42:45.000]  Your model artistic practice saying in s3 which is essentially free to store so don't worry on that 5 gbc gb storage is there for free you can always redeploy later your model so stop your Jupyter lab space when you're done for the day.
+[42:45.000 --> 42:57.000]  So how do you stop your Jupyter labs you will go to Jupyter labs and you will just click on stop here stop here you want to run it again you can just launch click it from here launch now that's it.
+[42:57.000 --> 43:25.000]  So just to just cover up once again what we just did we went to the seismic a seismic a service we came to seismic a studio we started a seismic a studio with a simple configuration became an inside here to see me the studio we click for Jupyter lab launch this Jupyter instances and once a Jupyter instance open we selected a Python notebook and then we run our code that's exactly the flow for you guys as well.
+[43:26.000 --> 43:43.000]  All right, so I let's just recap just fast recap in one minute set up seismic a session roll bucket will be done for you by the same other studio you load your data from s3 you need to upload your data in the s3 that's a data backbone for data s3 backbone.
+[43:43.000 --> 43:50.000]  You need to do a feature engineering clean it encode it format for your models here I form it for it's the boost train a model.
+[43:51.000 --> 44:03.000]  Provisage make up a provisional machine train and shut it down deploy an endpoint because life prediction will be happening on any point which you will bring up through an endpoint get your predictions.
+[44:04.000 --> 44:17.000]  I got 92% accuracy right now with no tuning if I do more you will get more you know more hyper parameters some cleaning of the data then you get more accuracy and then in the final thing delete everything.
+[44:18.000 --> 44:31.000]  That's exactly for you guys and my team let's just hear you the blog if you have any doubts then you can always connect with me now and let me just pull in my how do you connect now you can just stand up this link.
+[44:31.000 --> 44:45.000]  You know I'm always there available for you of course I won't get there is a solution but if you have any doubt you are not able to do operations change maker you have any doubt around AWS I'm I'm always here available connect with me take a screenshot whatever you want to do.
+[44:46.000 --> 44:58.000]  For such things which are always coming up I share things on my Instagram as well some small you know shape tips and tricks all the time so that's Instagram for you feel free to connect with me take a screenshot all the same for you guys.
+[44:58.000 --> 45:05.000]  I'm handling a community from a lot of developers students so always here on both the platforms that's linked in that's my Instagram.
+[45:06.000 --> 45:25.000]  And in the end you know Amazon gives you a lot of opportunities whether you want to be an ST data developer research scientist operations manager you are you want to become a developer advocate like me Amazon is a place choose your next adventure and participate in this we're always here for you it's always stable.
+[45:25.000 --> 45:35.000]  And the end that's what I want to say welcome to the Amazon universe at Amazon is all the same we are moving fast thinking big and everything.
+[45:36.000 --> 45:41.000]  So enjoy your challenge and hopefully see you all the winners you know all the best for your challenge.
+[45:43.000 --> 45:46.000]  Let me just show stop my screen sharing.
+[45:47.000 --> 45:48.000]  Thanks.
+[45:49.000 --> 45:50.000]  All right thanks.
+[45:51.000 --> 46:03.000]  Thank you for conducting the session and thank you folks for joining in I know we've gone a little over time but thank you for accommodating and all the best for Amazon ML challenge 2026.
+[46:04.000 --> 46:05.000]  Thanks everyone.
+[46:06.000 --> 46:07.000]  Thanks everyone.
+[46:07.000 --> 46:17.000]  Johnny have a really good.
+[46:37.000 --> 46:40.000]  You
+[47:07.000 --> 47:10.000]  You
+[47:37.000 --> 47:40.000]  You
+[48:07.000 --> 48:10.000]  Yo

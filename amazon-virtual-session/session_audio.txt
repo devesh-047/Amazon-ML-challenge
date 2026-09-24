@@ -1,0 +1,523 @@
+Let's to cover up meanwhile, I will just plug in my actual account which I've been using for this demo so you don't have to worry the same console you will be seeing just give me one second.
+All right, let me just stop the screen sharing for a while and just come back with my another account.
+Just one minute guys, if you can see me on the screen, I'm here only I'm just figuring out my one different account which I've set up for you guys.
+I know things happen.
+Okay, and here we are, the console action is just giving one second.
+And console I have got my account.
+Cool, so let me just put in my account here and people see.
+Let me just share my screen again here.
+I hope you're now seeing my different account which I've been using for my testing.
+Okay, so let's go again to sage maker, okay, sorry, just give me once again you can just say it from here sage maker.
+And here we are.
+Okay, what happened?
+Okay, this is started.
+Something is different here just give me once again a win in my account.
+I'm seeing different things.
+Sage, hope that's true, that's true.
+All right, meanwhile, it's being created.
+So yeah, if sudden kind of problem which comes in your account, don't worry, you don't have to worry just going to be taking like 15 to 20 minutes so that your system is initializing.
+Meanwhile, in those 15 to 20 30 minutes, you can do some activities, which I was telling you, you know, to get your another hundred eight double hundred dollar credits.
+And let's see, should be coming up.
+Okay, meanwhile, but.
+Let me just check, you know, if something is coming up in this account, I'm just loving you.
+Okay.
+Just an outcome.
+You know, let me just take something for you guys, which you can do for your another hundred dollar AWS credits.
+Exactly.
+Now, meanwhile, while the studio is being set up for you guys, I'll tell you how to get another hundred dollars once you receive your once you started with your account, you see there are some five activities, which you can just scroll down your AWS console.
+You will see launch an instant using AC to that reward will be given you $20.
+Then you can just use a model in your Amazon bedrock playground that will give you $20.
+Set up a cost budget, which we are selling you to give a alert $20 again.
+Create a web app using AWS Lambda under the 20 so one, two, three, four, five hundred dollars, right by just creating some things.
+Let's just use something like, you know, meanwhile, just to tell you, if you complete this activity by 25 March, 27, you'll be given $20.
+Wow, it's something I would do this to get some extra $20.
+I will just say, just give me one second.
+I don't need the visuals here.
+You will just add a name, chop in AWS Amazon Linux and it's not recommended just for the, you know, interest of time I'm just doing selecting the default options and
+security group allow us to sit from anywhere. Feel free to explore here right now.
+I'm just trying to get you know $20 for you guys.
+Configure storage, HTTP GP3 and the file system is not launch instance.
+It's not easy to launch an easy to instance here.
+All right, so let's see if something has changed.
+It might just show up in like another end progress. All right, see.
+That's how it is. Good.
+And if I just need to mean by this, I think the system is still taking some time here.
+All right, we have some 15 20 minutes. Otherwise, I'll just show you walk you through the code.
+If that's not happening because I've prepared for you guys.
+Just give me one second.
+Okay.
+Let's see if the code has been checked. Okay, in progress. Let's see if you can see our account credits here just to check credits.
+Okay, this is how you can check your credits. You can, you can go to accounts.
+You will get all you can directly go to billing and cost management billing and cost and you will get see credits.
+Here, you can see $100 already given to you right away.
+And once you are just, you know, figuring out like, you know, how to go ahead.
+You know, you will be doing those activities. This number would be changing 200.
+Okay, okay, now we are here in our notebooks in our sales maker.
+The notebook has been created for us and let's go here.
+This is our studio, which you will also be seeing. And now we will.
+Okay, I will use to be the old layout. Let me just check. This is a new layout for me as well here.
+So here in the unified studio, I am going with notebooks because my code is here.
+I will be running some Python code in the notebooks. I don't want to set up anything.
+Everything will be done in the Python notebooks.
+So what we did, we just went to the image on Sage maker. We went to the image on Sage maker unified studio, which behind the scenes creates everything for us.
+I am role set up as three buckets east to instances, the studio, all of it.
+Now, let's do a notebook, create a notebook.
+And they should be an option with Python.
+Okay, yeah, this is the Python, which we are seeing. Okay.
+Now I have some code for you guys. Let's see.
+Because this is the Python. So we will be doing Python code is like, you know, first of all, what we are trying to do.
+Let's build something real in the next another 1015.
+Yes, we are going to from zero to a deployed ML model right here in the Sage maker studio. This is a studio.
+We will load a data set from S3 clean it up and do some feature engineering.
+We will create an exit exit boost model using Sage maker's managed training.
+We are not going to be setting up anything deployed as a live endpoint.
+We will send up a new data and get see real predictions.
+The problem we are solving today is something called as customer churn prediction.
+We are trying to predict whether a customer will leave or stay based on the data.
+This is a very classic binary classification problem and the workflow is same, which you will also be using in your image challenge.
+Different data said that the process would be same. So understand the concepts here.
+If you've never used Sage maker before, don't worry, I'll explain everything as we go.
+Let's set up an environment and here it will be something like this.
+I'm setting up.
+So weapons tall.
+Okay.
+Two. Okay. Oh, this view is so simple. That's okay.
+We don't have to do many to just give you one second.
+Sometimes this and notebooks can be still in the initializing stage.
+Also just a minute. I'd like to see the learning out here.
+Okay.
+Yeah, that's exactly which I really wanted to see.
+Great. Great. This is great. This is the thing which I'm looking for you guys.
+Unified studio.
+God. This is how we're working and now we will go with installing the stage maker core SDK, which we would need here.
+I have no idea why it's saying you need to reset the kernel to use up period packages.
+Let me just refresh something is not here. Everything is here.
+But why is not happening? Just give me a check.
+It's happening in the packages here.
+This is how you can also troubleshoot when things are not happening for you guys.
+Conno, we still to do, but you know, there's a kernel here. I to just.
+It's a new layout, which has been changed in my different system.
+Let's see if.
+Okay.
+Let me just. Okay. I'll use a different approach for us.
+I will probably use this approach, which I've created on the studio for us.
+Yeah, that's far better. This is the older layout, which you will also see in the stage maker studio.
+You can also create the same studio like stage maker studio and create an open studio to have a default option.
+Otherwise, if you have created something like this, this is the one.
+Now, let's go to here, the options we will be seeing like, you know, Jupiter.
+You have a Jupyter lab, the same notebook. Now I'll be creating a new notebook for us.
+You can select launch now. It will be creating a notebook with mlt3 media 5gb4gb RAM.
+I was starting one. I was testing out with some, you know, some other labs. I keep on, you know, deploying models, so I was testing out with here.
+So let's wait for until it's coming up.
+So this is the studio, which you don't have to set up anything.
+You will be mostly working with Jupyter labs here, writing your code in this.
+In this, you know, in this instance in this Python notebook.
+And rest of the things would be easily available for you guys.
+So automatically once the lab is started, you know, the instances up, you will see a notebook coming up for you guys.
+Let's see, it's coming up here.
+All right, this is the Python notebook Jupyter Python notebook and you will see a launcher here.
+We want to choose a notebook of Python three, which have all the Python three dependencies, the errors, which I was seeing in the last time.
+So what we can do is just hit install SageMaker core queue.
+Okay.
+Once you enter the command, this is the way to play to run these commands.
+It will install the wow, why this is happening in everywhere.
+So we need to restart.
+Okay, guys, we are facing some other type of problems here in the system, which let me also check in the other notebooks.
+Because of the interest of the time, I will didn't walk you through the code if this is not happening in the last time.
+Give me five minutes. Let's see why it's happening.
+It's really crazy.
+So that's a lot with me today.
+For sure, let's see.
+Okay.
+I will just check it out here if it's happening.
+Let's talk me again.
+Should work.
+Guys, say some problem with my accounts.
+So I have a better way.
+I will just walk you through the code then.
+Okay.
+Okay, guys, so I think we are facing some issues here, but let me just check some other command if it's running.
+Otherwise, I'll just walk you through the code.
+I'm so sorry, there's something issues with my account here, but let's see.
+Yeah, guys, so.
+That's not exactly an error, it's just a note, which you are seeing right too many to restart the channel to update packages.
+And for you guys, it will be already done for you.
+So here, what are we are doing is we have searched instead of the stage maker code with this command.
+This is all the latest SDK version three.
+Let's let's us talk to a stage maker services behind the scenes.
+The people's command will install you know packages right from within the notebook.
+For you, you will what this command is actually doing.
+Your stage maker studio has created certain things like execution role, escape bucket and default and the region.
+This is what this code is trying to just print for you guys.
+The important thing here is the session connects here to the Amazon stage maker service.
+It has a remote control execution role will tell how Amazon stage maker gets permission to access your data in S3 and spin up the compute instances.
+Okay, the quick set of already did this for us behind the scenes.
+Now, let's go to another command, which I'm going to be.
+This is your cell three.
+Now, what is this doing for you?
+This is something important, which I want to before I'm running this cell, I will explain.
+We did not upload the data arses.
+I have not updated this data.
+AWS is hosting several public data sets in S3 specifically for this kind of a tutorial, which I'm going to be doing.
+There's one of them.
+It's in the public bucket.
+You will be getting your data set from the Amazon in your meals later on.
+The data itself is like a customer data set.
+It has about 5,000 for customers.
+It features like call minutes charges customer service calls.
+It's not a real customer.
+It's a telecom customer data set.
+AWS generated for you.
+The for the ML challenge, the process will be different.
+You will receive your challenge data set and you will need to upload it to your own S3 bucket.
+I will show you how to do that in a few minutes when we upload a process data.
+But for now, we are just feeding from the AWS public data.
+No upload needed from my site for now.
+Again, remember, I am not uploading this data arses.
+It's a public data set for you.
+You have to upload in your bucket S3 bucket.
+All right.
+Let's run this.
+So this is the kind of a data which is there.
+You know, there's some states account length area code and all of this.
+What interestingly, I am interested in the customer churn rate with the customer will stay with us.
+Our customer will not stay with us.
+Two means customer will leave.
+Paul's needs customer will not leave.
+You know, the cost calls means the customer is staying.
+Sorry.
+Two means customer has left churn rate.
+Now, let's see.
+My interesting column which on which I want to train my data is the churn data column.
+And here it is.
+I will be little fast to save some time because we because of the account problems.
+Okay.
+Let's forget that.
+So our target column is churn here.
+True means the customer left.
+Paul's means this state.
+This data set has a roughly 50 50 split about half people have churn and half a state.
+This is an important step for us because you need to always take your target distribution before you do anything else on a data.
+Now, cleaning up or more training the model.
+It tells you what kind of problem you're dealing with.
+Right now, it's a balance here, 50 50 roughly equal.
+But in the ML challenge, maybe your data might be highly skewed to one side.
+Right.
+That changes how you build and evaluate your model.
+We will definitely talk about more on evaluation metrics like precision recall F1 scores later when we actually see our model riddles.
+For now, remember, you need to look at your data first before you touch it.
+Here is your churn data.
+All right.
+Now the step I would be.
+I will just be quick.
+So this tells you about the data, you know, which starts there are 21 columns and zero missing values.
+It's a clean data set.
+Maybe the ML challenge data won't be this clean for you guys.
+You know, you will be need to handle the missing values and noisy data by yourself.
+But the exploratory analysis data is always the same.
+Understand your data like the churn column in my case before you model it.
+For example, let's see you read this output.
+21 columns means we have 21 pieces of information about each customer.
+5000 means 5000 customers zero missing values.
+The data is all cells of data.
+This is because important because missing values can break your model or give wrong results if they was missing data.
+In the ML challenge, you will most certainly might have or most certainly have a missing data.
+You will need to handle it.
+You will need to fill in some beta drop it or use some algorithm that handle it natively.
+We are also checking the column types.
+Some are numbers.
+Some are text.
+The column types in 64 plot 64 object types.
+And our model every our model, which is exit boost, which I'm using for this prediction using everything as number, which is by the next feature is.
+Featured engineering.
+Alright, let's be quick little.
+It's a simple Python code.
+You don't have to worry what's this Python code is.
+I'll just go with this, but just give me once again, I will help you out.
+Okay.
+Okay.
+Now what I'm trying to do is like I said in the previous step.
+Featured engineering.
+This is a step of featuring.
+This was where data science is happening.
+Let me walk you through what each line is then.
+First, I'm trying to drop a phone column.
+This is non creative for me.
+This is a unique ID every customer has a unique different phone number.
+It doesn't help predict anything.
+If your data is unique ID serial numbers or row numbers, drop it.
+That's a basic rule.
+They don't add any value.
+Next time dropping the.
+Charge columns day charge evening charge night charge international charges.
+Why.
+This is the exact line.
+Why because charges equal minutes times are fixed.
+They charge the tree day minutes multiplied by some number.
+This is the exact same information as the minutes column.
+Having both is like writing the same answer twice on your exam.
+That is where we are.
+I'm trying to drop it.
+It doesn't give you extra marks in ml machine learning.
+We call this written density and it can actually confuse your model.
+So and also we I'm also trying to do one dot code encoding over here.
+If you can see.
+What I'm trying to do is some column have text like yes or no.
+I'll take.
+But XB booth only understands numbers.
+So you need to also understand your model.
+What's the input data?
+I trying to expect.
+How do I know what XT booth requires?
+You can always Google it.
+Amazon Sage maker algorithm.
+Documentation always tells you what kind of data your model is required.
+So you need to read your documentation during a ml challenge.
+As.
+So what are we trying to convert in?
+We are trying to convert yes becomes one and no becomes zero over here.
+I'm trying to just.
+Encoding the data.
+A state column with 50 state becomes 50 separate column each with a once or zeros.
+That's what pg get dummies is doing here.
+All right, so.
+And now what is I'm doing here?
+I'm just trying to convert the numbers in my zeros and one and then printing out.
+Let's print it out for you guys.
+Now, if you have observed one thing which I've just done.
+I have brought my churned column which was in the last of the customer data.
+I've tried to bring it in the front.
+You know why?
+Exy bruised have the rule.
+Give me a CSV file with no column headers and put that thing you want to predict in the first column.
+That's again the model quality.
+Everything goes else goes after it.
+This is the number one mistake people forget to remove headers or they leave the target column somewhere in the middle.
+But here right now I'm trying to bring it in the front.
+That's the ML dispractice.
+The model either crashes or trains in the wrong thing.
+So remember to rule no headers target first.
+So again, let me repeat.
+Someone would be wondering how do I know these rules answer is documentation.
+Every Sage maker built an algorithm like HZ booths.
+Have the docs page that tells you exactly what format it expects.
+Just Google input format of the Exy boost Sage maker and the first silver tell you target in the column zero.
+No headers.
+That's it.
+Before you use any algorithm spend some five minutes you know reading the docs will save your odds of debugging trust me.
+That's a pro tip of winning trust me.
+And let's now.
+Now we have you know sanitize the data.
+Now let's click this data and upload to s3.
+I will be splitting this data into training data.
+Some data will be validation some will be the testing data.
+I will be trying to be little quick here.
+So this is a very simple code.
+It is doing three things here.
+Split save and upload.
+Just to get it.
+So what is happening is.
+Think of this as the test tool validation is said training set is 67% which we have said here, you know 67 means the data that model learns from.
+If you want your model to learn more, you can tweak the value from 67 to something else.
+From 0.33 test size to something else.
+I'll stop to you.
+Then you come serve validation set of data validation sets is like it's progress against it.
+The model checks it progress again this while cleaning think of it like a practice test.
+Then come to test it, which is something around 11%.
+We never show this data to the model until the variant.
+This is the final exam.
+Why three sets now somebody would be asking because if you train and test on the same data your model just memorizes the answers.
+So it will look great, but fail on the new data.
+So test set tells you how it performs on the data.
+It has never seen.
+Training is being trained on the model is being thrown on.
+Golden rule never touch your test set until you are completely done training.
+Here it is 11% for me.
+So always divide your data into three training data validation data and test data.
+And if you're noticing what the random state 42 in the code here.
+It's something like the seed number.
+It makes the split reproducible every time.
+Every time you run this you will get the same split.
+Okay.
+Now second step I'm doing it as a separating.
+I'm saving it as a CSV three CSV five brain CSV validation CSV test CSV.
+In this final code.
+I'm just trying to upload this data to s three.
+Now let me just print it up.
+All right.
+These are the like three three five wheel rows.
+It's going to the s three this bucket.
+That's because this.
+Now somebody would be asking how did you get this bucket.
+This is the bucket which Sage maker has set it up for us.
+When we created the studio.
+So that is where it's creating studio helps up in this kind of a infrastructure provision.
+All right.
+All right.
+All right.
+All right.
+Now let's come to the frame the model.
+We need to train now model.
+We have no data.
+We have data stored in s three.
+Now we need to train the model from our s three.
+But before that there's one more step you go beyond the setting the data.
+Sage maker has some pre-built Docker containers for popular algorithms.
+Exyboos, linear learners, glaring takes in many more.
+You don't have to install any model.
+You just point it to the container here.
+My container image is like framework is the exit boost.
+And the region is under version.
+You might need to check the versions of the algorithm you are trying to choose.
+All you have to just hit play and it will tell you the exit boost container image name.
+And this is what we have been saved in our image variable as well.
+Now we will be launching the training job.
+Okay.
+Let me just fix in the code here for you guys.
+And okay.
+Now this is what this code is doing.
+This is an important code.
+Please let me walk you through what's happening here.
+Hyper parameter.
+This is something called as hyper parameter what we are trying to do.
+Hyper parameter controls how the model learns.
+I'm choosing sort of defaults here.
+Like max depth.
+How complex each tree can be.
+ETA 0.2 is a learning rate.
+Number of round number of round is here.
+I'm giving 100.
+We build 100 of trees that works together to you know learn from the strength of from it.
+Objective here is binary logistic.
+This says exit boost that this is binary classification instance type.
+And then comes the instance type of here for you.
+Now let me just you know what we'll be doing is.
+This entire training is covered by the free tier.
+Channel will be telling you.
+Channel will be telling you from where the training and validation data lives in s3.
+Here if you see channel name is validation content time.
+Sv su data source.
+And blah blah blah.
+Yeah.
+All right.
+And sd bucket is always stored in the variable.
+And let's just try to train this model.
+Pro tip.
+You might for your accuracy and different things you need might need to play with the hyper parameters of your.
+During your challenge.
+So waiting for training to complete this might take some time.
+Let's wait for like two, three minutes.
+Let me just refresh what we have just done.
+So far.
+We have installed Amazon Sage maker SDK to talk with Sage maker service.
+Then we just printed out the region s3 bucket execution role which Sage maker has created for us when we created this entire studio.
+Then now we have now what we are doing is we are just trying to read our data how the data is.
+This data is a public data you will get your data set from the image challenge from the team.
+After the reading the data I understood this is the where churn churn is the data which I want to make learn and predict my data tell like whether customer will stay or customer will not.
+That's where the model will start predicting.
+Then what I did was I kind of check the my training data how my target variable distribution is it equally split or it's going to be skewed we don't know how your model your final data would be.
+Then I checked how the data types are.
+Is there any missing data you know true or false is missing or some columns are missing because this will influence your model accuracy.
+Finally what we did finally we just you know kind of sanitize the data by dropping some columns which I don't need and bringing the data in the front the column in the front which I need to need my model to predict on that is my churn column.
+West I am now splitting this data into three ties one is the training data for the model another would be the validation data and finally would be the test data which I will only use when the model has been trained and I'm satisfied with the accuracy.
+So training is the season 7% data validation will be 22% and testing is 11% of the total data.
+Storing it are the three CFE files and finally fading the model using different type of parameters and this code your code will be almost the same all these is have to figure out is that sanitization of the data and the hyper parameters.
+This might take some time because you know we have around 5000 of customers.
+Now what is the steps which are just remaining I am doing good on the time check here.
+Once the model is trained we will get a message something like you know the training has been completed we will we will be now then doing deploying this model you know deploying and then creating the prediction that the only step which is left and in the final step I will show you how to you know.
+Get a sample prediction and delete this data all right our data has our model has been trained completed now let's just do one last second step deployed and get prediction.
+Remember you need to deploy this model otherwise you won't get the prediction it's like it's just saying like you know just tell the model you know what if your model is not live you won't be able to predict.
+And here's the code is a simple we have choose a churn model name which was given in the previous code here the churn model name came here paying job churn model came here and all we are just doing is.
+In SDK V3 deploying inverse three steps you create a model create an endpoint configuration and create the endpoint Sage maker creates a resting endpoint a life service that accepts data and returns prediction.
+Okay, so what we are trying to do is we are creating a sees become model from here.
+Then we are creating a endpoint configuration and then creating an endpoint here endpoint is a rest API endpoint a life service again that accepts data and returns prediction this is the same which you can use in your project as well for the sending data and getting predictions this will take around like five minutes from us.
+Sorry, there's a conflict with the syntax error.
+Okay, creating model resource creating endpoint creating endpoint resource waiting for the model to be ready and this is your endpoint all right.
+Why is the end point comes up let me connect to this clear world machine learning what we just created is the whole state prediction service in production applications you will have some applications for example Netflix Amazon Prime Amazon these applications send data to this end point which has been created why an API coupon and get back predictions in real time.
+This is how ML works at companies like Amazon itself for the ML challenge you will generate predictions for a test set you can either use the real point endpoint like this or use a batch transform which process an entire final prediction at once without keeping an endpoint run this is something you would like to explore.
+It's batch all often more cost effective for competitive style workflows.
+There's also some few Sage maker features that will help you in the challenge like Sage maker autopilot you give your data and it automatically tries multiple algorithms and feature engineering approaches.
+You don't have to code that great for a quick baseline hyper parameter tuning jobs you define a search range for your hyper parameters and Sage maker and doesn't stop training jobs in panel to find the best combination.
+There's also one more feature called Sage maker experiments that I already told you in the theory that you will model you will trap all your model versions parameter than metrics where you can compare your runs.
+A golden rule starts simple start simple with what you're doing today then layer on these advanced features to improve your score.
+So what did we just cover batch transform Sage maker autopilot hyper parameter training jobs Sage maker experiments so you can explore more of this.
+Let's just wait for our endpoint to be ready I'll just have my hotel until then.
+By the way, this is a surprise for you that I have written a block for you guys so that you can also cover up this all these steps which you are covering right now.
+Let me just to pull in this blog here.
+He spindles into something that I hope I'm logged in here I have not logged in okay I'm so sorry.
+Maybe just give me one second maybe I can find my blog here for you guys.
+Okay, I hope.
+The Amazon team will drop in this blog in the charts for now.
+Until then let's see where I'll be in the training point waiting for endpoint let's just close this training point.
+Latisha from my team if you can just drop in the blog link that would be great for them also so that you know they have something to refer on later on while we're just about to end our demo.
+I've already shared it.
+Sure, thank you so much Latisha.
+Okay, this will take time you know model endpoints getting ready you know so yeah.
+Latisha are we having any questions in the chat or it's going to be either coming up any questions I'm not able to see that because.
+There are a few questions but I think we.
+We should be looking at this.
+I will share the recording with the folks sure sure sure now let's see the end point of life now now let's try to do something.
+Let's some get some sample predictions here for you guys let me just put in my code which I prepared for you guys and.
+Okay.
+Why I chose Jupiter for this table because you know it's just like you copy your code you can generate your code from you know or any I services which you like keto ID you know bedrock you can get it anything you like and just copy paste and you know see the results in real time rather than you know provisioning everything.
+You can choose your VS code as well up to you but I prefer this studio because it is provisioning the infrastructure as well.
+All right let's just run and see what is happening.
+Okay.
+This is the predictions which is coming up.
+Now look at that the model outputs a probability between zero and one you can see the numbers like zero point nine three four zero point one two and so on.
+I have kept the threshold zero point five here let me tell you what is zero point five here above zero one five we predict Sean below zero point five we predict stay.
+John means customer will not stay he will go away and most of these are correct if you see.
+That decimal number is the confidence which I'm saying in my code a score of zero point nine two here or zero point nine three four means the model is very confident the customer will show.
+Actually correct as well which is you know with the actual data it kind of coincide that the model is expecting churn and actually is on such a model is very confident the customer will show a score of zero point five one here means it's barely sure.
+In the ML challenge confidence scores matter for how your solution rounds cases to human review.
+Like say let's say you know the you read this output carefully each line is one customer first number is like zero point nine three four.
+It's a probability that this customer will show it's a number within zero and one.
+You need to think of this as a model confidence zero point nine three four is like 93.4% the model is confident the person will be.
+We have I have said a threshold of point five anything above point five I'm saying it will show or before low that it will stay.
+Correct means model is right wrong means it didn't you know this is what your model will also produce in the ML challenge to a confidence score for your each prediction.
+The higher the score the more confident your model is remember the higher to score the more confident your model is getting the threshold right matters a lot.
+I have chosen a safe approach for point five but you will need to tweak it.
+In the challenge you might study the higher than zero point five you want to be extra care for about ground predictions that's up to you so.
+Key take away from this code you need to set your threshold accordingly and you need to make sure your model is confident.
+And now let's do a full evaluation test that's a final last second step then we will delete all the resources as I'll show you how to delete as well so that you don't cost your free tier stay then free tier.
+Let's just run this code.
+Okay this testing has been done with the 11% of the test data okay and we will see how it is being doing done over here.
+From test data no target to CSV okay.
+Let me just break down what these phone number means because in machine learning these phone numbers have a different value accuracy is the simplest out of all the customers what percentage did we get right.
+Around 91.6% sounds good but let me explain why do we need more than just one accuracy imagine you are a teacher trying to find what are the students going to fail an exam.
+You flag 10 students for example precision ask of those 10 students how many actually fail.
+If 8 out of 10 fail your precision is 80% you were right most of the time when you made a call.
+Now what does recall means recall means all students who actually fail how many did you catch.
+Let's say if 20 students were failing but you only flagged 8 your recall is like 40% you miss a lot of real places right that's your recall.
+F1 is my important parameter which I see as an email engineer in F1 scores balances both you want to be right when you make a call and catch most real cases F1 gives you gives you one number for both of that.
+In simple terms precision is how right you are recall is how many real cases you catch F1 are you good at both.
+For the email challenge take low attention to which metric the leader board is using the challenge code my precision and recall differently so don't just choose accuracy focus on these numbers sorry these parameters.
+Now in the end if you have understood what we have just done you know all we just have to do is delete this endpoint right now I'm not experiencing the code because it's a python code and I'm assuming you would guys would understand the python code.
+If not use your ideas a ID whatever you want to feel like and you know speeder and let's just delete this okay so that I'm not being charged in my free tier account and point or delete and point conflict or delete on model delete I'm deleting the end point and everything and it will be just running this code.
+This is one of the most important says in this entire book you need to delete your endpoint because running endpoint will cost you point 12 dollars 0.12 dollars per hour.
+If you forget one over the weekend costs around 6 dollars forget over a month it will be like 90 dollars training job which we have done will auto dominate they don't need any cleanup.
+Your model artistic practice saying in s3 which is essentially free to store so don't worry on that 5 gbc gb storage is there for free you can always redeploy later your model so stop your Jupyter lab space when you're done for the day.
+So how do you stop your Jupyter labs you will go to Jupyter labs and you will just click on stop here stop here you want to run it again you can just launch click it from here launch now that's it.
+So just to just cover up once again what we just did we went to the seismic a seismic a service we came to seismic a studio we started a seismic a studio with a simple configuration became an inside here to see me the studio we click for Jupyter lab launch this Jupyter instances and once a Jupyter instance open we selected a Python notebook and then we run our code that's exactly the flow for you guys as well.
+All right, so I let's just recap just fast recap in one minute set up seismic a session roll bucket will be done for you by the same other studio you load your data from s3 you need to upload your data in the s3 that's a data backbone for data s3 backbone.
+You need to do a feature engineering clean it encode it format for your models here I form it for it's the boost train a model.
+Provisage make up a provisional machine train and shut it down deploy an endpoint because life prediction will be happening on any point which you will bring up through an endpoint get your predictions.
+I got 92% accuracy right now with no tuning if I do more you will get more you know more hyper parameters some cleaning of the data then you get more accuracy and then in the final thing delete everything.
+That's exactly for you guys and my team let's just hear you the blog if you have any doubts then you can always connect with me now and let me just pull in my how do you connect now you can just stand up this link.
+You know I'm always there available for you of course I won't get there is a solution but if you have any doubt you are not able to do operations change maker you have any doubt around AWS I'm I'm always here available connect with me take a screenshot whatever you want to do.
+For such things which are always coming up I share things on my Instagram as well some small you know shape tips and tricks all the time so that's Instagram for you feel free to connect with me take a screenshot all the same for you guys.
+I'm handling a community from a lot of developers students so always here on both the platforms that's linked in that's my Instagram.
+And in the end you know Amazon gives you a lot of opportunities whether you want to be an ST data developer research scientist operations manager you are you want to become a developer advocate like me Amazon is a place choose your next adventure and participate in this we're always here for you it's always stable.
+And the end that's what I want to say welcome to the Amazon universe at Amazon is all the same we are moving fast thinking big and everything.
+So enjoy your challenge and hopefully see you all the winners you know all the best for your challenge.
+Let me just show stop my screen sharing.
+Thanks.
+All right thanks.
+Thank you for conducting the session and thank you folks for joining in I know we've gone a little over time but thank you for accommodating and all the best for Amazon ML challenge 2026.
+Thanks everyone.
+Thanks everyone.
+Johnny have a really good.
+You
+You
+You
+You
