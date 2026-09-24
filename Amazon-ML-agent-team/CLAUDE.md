@@ -171,6 +171,14 @@ Claude Code installation, or any global Claude configuration. Nothing in this
 repository pins a model name — the workflow is designed to run on whichever
 compatible model the developer's installation routes to. Leave it that way.
 
+## Reference Documents
+
+Agents must refer to the following documents when relevant to the task:
+
+- **`amazon-guide-agent.md`** — The Amazon ML Challenge project guide extracted from the official Best Practices Virtual Session. Contains AWS setup, ML workflow, XGBoost formatting rules, evaluation metrics, SageMaker features, and cleanup procedures. Reference this for all challenge-related development.
+
+---
+
 ## How to work as a human team
 
 1. **Clone the repository.**
