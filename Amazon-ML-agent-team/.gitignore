@@ -1,0 +1,117 @@
+# ---------------------------------------------------------------
+# Secrets — never commit these
+# ---------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+credentials
+credentials.json
+secrets.json
+.netrc
+.aws/credentials
+
+# ---------------------------------------------------------------
+# Claude Code local state
+# ---------------------------------------------------------------
+# Shared and committed:   .claude/agents/, .claude/skills/, .claude/commands/
+# Personal / machine-local — not shared:
+.claude/settings.local.json
+.claude/local/
+.claude/*.local.json
+
+# ---------------------------------------------------------------
+# Data and model artefacts — keep the repo small
+# ---------------------------------------------------------------
+# Note the '**/' prefix and the '/*' suffix, both deliberate:
+#   'data/'     would exclude the directory itself, making a '!data/.gitkeep'
+#               negation dead — git never descends into an excluded directory.
+#   'data/*'    would be root-anchored only, leaving src/data/ etc. exposed.
+#   '**/data/*' excludes the contents of any data dir at any depth, while still
+#               allowing the negation below to re-include the placeholder.
+**/data/*
+!**/data/.gitkeep
+**/datasets/*
+!**/datasets/.gitkeep
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.joblib
+
+models/
+checkpoints/
+artifacts/
+submissions/
+runs/
+outputs/
+mlruns/
+wandb/
+lightning_logs/
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.safetensors
+
+# ---------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+env/
+.eggs/
+.installed.cfg
+
+# Test / lint / type caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------
+# Node (only if the project adds a JS/TS component)
+# ---------------------------------------------------------------
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ---------------------------------------------------------------
+# Editors and OS
+# ---------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------------------------------------------------------------
+# Logs and scratch
+# ---------------------------------------------------------------
+*.log
+logs/
+tmp/
+scratch/
