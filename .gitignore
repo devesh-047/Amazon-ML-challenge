@@ -1,22 +1,98 @@
-# Datasets and PDF documents
-amazon-ml-challenge-dataset/
-*.pdf
-*.tsv
-*.csv
+# Python
+*.py[cod]
+*$py.class
+__pycache__/
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# OS metadata
-.DS_Store
-__MACOSX/
-*:Zone.Identifier
-
-# Environment & Python artifacts
+# Virtual environments
 .venv/
 venv/
-__pycache__/
-*.pyc
+ENV/
+env/
+.virtualenv/
 
-# Pipeline artifacts (see strategy/02_TECHNICAL_SPEC.md)
-ber/data/
-*.parquet
-*.txt.gz
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files (large datasets)
+data/raw/*.csv
+data/raw/images/
+data/processed/*.csv
+data/interim/image_blocks/
+data/embeddings/*.pkl
+data/features/*.pkl
+data/features/*.csv
+data/models/*.pkl
+data/models/*.pth
+data/models/*.h5
+
+# But keep the directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/interim/.gitkeep
+!data/embeddings/.gitkeep
+!data/features/.gitkeep
+!data/models/.gitkeep
+!data/submissions/.gitkeep
+
+# Logs and temporary files
+*.log
+runs/
+logs/
+*.tmp
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Model checkpoints
+*.ckpt
+checkpoint/
+
+# Outputs
+*.out
+*.err
+
+# System files
+Thumbs.db
+.cache/
+
+# Secrets
+.env
+secrets.json
+credentials.json
+
+# Large files that shouldn't be committed
 *.zip
+*.tar.gz
+*.rar
+
+# Experiment tracking
+wandb/
+mlruns/
+
+# BER specific
+ber/.venv/
+ber/data/
+ber/runs/
