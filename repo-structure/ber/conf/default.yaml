@@ -1,0 +1,145 @@
+# Amazon ML Challenge - Default Configuration
+# All thresholds, paths, and hyperparameters
+# No magic numbers in code - everything goes here
+
+# Dataset paths
+dataset:
+  root: "../../6ab10eb3b23ba_student_resource/student_resource/dataset"
+  train: "train"
+  test: "test"
+
+# Validation split (make_val_split.py)
+split:
+  seed: "amlc2026"
+  val_pct: 10.0      # 10% for validation
+  fastval_pct: 1.2   # 1.2% for fast iteration (subset of val)
+  calib_pct: 2.5     # 2.5% for calibration
+
+# Normalization (src/common/normalize.py) - R1
+normalize:
+  lowercase: true
+  strip_punctuation: true
+  # Legal suffixes to keep (per country)
+  legal_suffixes:
+    US: ["llc", "inc", "corp", "ltd", "lp", "llp"]
+    India: ["private", "limited", "pvt", "ltd"]
+    France: ["sarl", "sas", "eurl", "sca"]
+  # Stop words (high frequency, low discrimination)
+  stopwords:
+    US: ["and", "the", "of"]
+    India: ["and", "the", "of", "india"]
+    France: ["et", "de", "la", "le"]
+
+# Blocking / Candidate Generation (src/block/) - R1
+blocking:
+  # Token-based keys
+  rare_token_threshold: 0.001  # df < N/1000 = rare
+  max_block_size: 300          # discard blocks larger than this
+  top_k_candidates: 20         # keep top-K per entity after cheap scoring
+
+  # IDF weighting for top-K selection
+  idf_name_weight: 0.6
+  idf_addr_weight: 0.4
+
+  # Embedding recall (optional)
+  use_embeddings: false
+  embedding_model: "intfloat/multilingual-e5-small"  # 118M params, MIT license
+  embedding_top_k: 10
+
+# Feature Engineering (src/model/features.py) - R2
+features:
+  # Text similarity features
+  name_jaccard: true
+  addr_jaccard: true
+  name_edit_distance: true
+  addr_edit_distance: true
+
+  # Token overlap features
+  rare_token_overlap: true
+  numeric_token_overlap: true
+
+  # Length features
+  name_length_diff: true
+  addr_length_diff: true
+
+  # Script features
+  script_mismatch: true
+
+# Model Training (src/model/train.py) - R2
+model:
+  algorithm: "lightgbm"
+
+  lightgbm:
+    objective: "binary"
+    metric: "auc"
+    num_leaves: 31
+    max_depth: -1
+    learning_rate: 0.05
+    n_estimators: 1000
+    early_stopping_rounds: 50
+    verbose: 10
+
+  # Negative sampling
+  negative_sampling:
+    ratio: 5  # 5 negatives per positive
+    strategy: "random"  # random, hard, mixed
+
+  # Calibration
+  calibration:
+    method: "isotonic"  # isotonic or platt
+    cv_folds: 5
+
+# Decision Layer (src/decide/) - R3
+decision:
+  # Mutual exclusivity enforcement
+  exclusivity:
+    demote_factor: 0.25  # losers get p *= 0.25
+    max_s2_per_entity: 5
+    max_s3_per_entity: 6
+    swap_improvement_rounds: 1
+
+  # Expected-F0.5 selection
+  selection:
+    method: "plugin"  # plugin or montecarlo
+    montecarlo_samples: 200
+
+    # Safety margins (per country)
+    # Test pool is 23% denser than train, so add margin
+    delta:
+      US: 0.05
+      India: 0.05
+      France: 0.10  # Higher margin for zero-shot country
+
+  # Per-country tuning (to be updated after validation experiments)
+  thresholds:
+    US:
+      global_threshold: 0.5  # fallback if selection fails
+    India:
+      global_threshold: 0.5
+    France:
+      global_threshold: 0.3  # More aggressive for zero-shot
+
+# Evaluation (src/eval/) - R3
+evaluation:
+  # Test mix weighting for model comparison
+  test_mix:
+    US: 0.383
+    India: 0.468
+    France: 0.150
+
+  # Reporting breakdowns
+  breakdowns:
+    - country
+    - cardinality
+    - has_addr
+    - name_script
+
+# Output
+output:
+  submission_format: "tsv"
+  validate_before_save: true
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

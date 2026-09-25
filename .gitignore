@@ -96,3 +96,18 @@ mlruns/
 ber/.venv/
 ber/data/
 ber/runs/
+
+# But keep validation splits (critical for team coordination)
+!ber/data/splits/
+!ber/data/splits/*.txt
+!ber/data/splits/*.md
+
+# repo-structure/ber specific (same rules)
+repo-structure/ber/.venv/
+repo-structure/ber/data/
+repo-structure/ber/runs/
+
+# But keep validation splits
+!repo-structure/ber/data/splits/
+!repo-structure/ber/data/splits/*.txt
+!repo-structure/ber/data/splits/*.md
