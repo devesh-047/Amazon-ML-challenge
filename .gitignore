@@ -1,0 +1,22 @@
+# Datasets and PDF documents
+amazon-ml-challenge-dataset/
+*.pdf
+*.tsv
+*.csv
+
+# OS metadata
+.DS_Store
+__MACOSX/
+*:Zone.Identifier
+
+# Environment & Python artifacts
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Pipeline artifacts (see strategy/02_TECHNICAL_SPEC.md)
+ber/data/
+*.parquet
+*.txt.gz
+*.zip
